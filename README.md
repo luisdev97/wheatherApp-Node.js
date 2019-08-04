@@ -6,7 +6,7 @@ Setup
 npm install
 ```
 
-##Example:
+Example:
 ```
 node app -c "Madrid"
 ```
